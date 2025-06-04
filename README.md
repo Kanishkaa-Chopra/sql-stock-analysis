@@ -1,6 +1,6 @@
 # SQL Stock Analysis (AAFL)
 
-This repository contains a complete pipeline for fetching, loading, and analyzing historical stock data using **Python**, **SQLite**, and **SQL**. The example stock chosen here is **AAFL**, but you can easily swap in any other ticker. By the end of this project, you will have:
+This repository contains a complete pipeline for fetching, loading, and analyzing historical stock data using **Python**, **SQLite**, and **SQL**. The example stock chosen here is **AFFL.NS**, but you can easily swap in any other ticker. By the end of this project, you will have:
 
 1. A local **CSV** of daily OHLCV data.
 2. A **SQLite** database (`.db`) containing the same data in a `stock_prices` table.
